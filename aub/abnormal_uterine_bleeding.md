@@ -32,7 +32,7 @@ chronic aub etiologies are classified by FIGO as PALM COEIN
 > if above positive do labs - vW-ristocetin cofactor activity, vW factor antigen, factor viii
 
 ## HISTORY TAKING
-[History taking](./aub_history_taking.jpg)
+![History taking](./aub_history_taking.jpg)
 ![History taking](./aub_history_taking1.png)
 
 ## INVESTIGATIONS:
@@ -59,7 +59,7 @@ iv tranexamic acid 10mg/kg q8h
 - recombinant factor viii and recombinant vW facctor - coagulation defects and vW disease
 - factor specific replacement
 
-[acute aub](./aub_acute_treatment.png) 
+![acute aub](./aub_acute_treatment.png) 
 
 ### Failed Medical Management - 
 - intrauterine tamponade with 26F foley with 30mL of saline solution
@@ -80,6 +80,6 @@ iv tranexamic acid 10mg/kg q8h
 > NOTE: AUB-I includes - oestrogen/progesterone therapy, GnRH agonists, aromatase inhibitors, SERM, SPRM
 
 **CHRONIC AUB**
-[Specific Treatment Overview](./aub_treatment_specific.png)
+![Specific Treatment Overview](./aub_treatment_specific.png)
 
 
