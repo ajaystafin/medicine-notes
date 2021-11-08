@@ -100,5 +100,6 @@ Treatment:
 * av nodal blocking agents  (adenosine, ccb, beta blockers) are contraindicated coz it may block the av node and convert it into vt or vf
 * stable - procainamide, ibutilide, *dc cardioversion(preferred)*
 * unstable - dc cardioversion
-![svt treatment](./svt2.jpg)
+![svt treatment](./supraventricular_tachycardia/svt.jpg)
+![svt treatment](./supraventricular_tachycardia/svt2.jpg)
 

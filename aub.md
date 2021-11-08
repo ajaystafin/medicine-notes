@@ -9,7 +9,7 @@ modified: '2020-05-06T09:45:22.135Z'
 [Reference ncbi-basic-stuff](https://www.ncbi.nlm.nih.gov/books/NBK532913/)
 [Reference acog- acute HMB](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/management-of-acute-abnormal-uterine-bleeding-in-nonpregnant-reproductive-aged-women)
 [Reference ncbi-figo-classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4970656/)
-<a href='./aub_coagulation_history_screening.png' id=pic>Coagulation-Screening-Tool</a>
+<a href='./aub/aub_coagulation_history_screening.png' id=pic>Coagulation-Screening-Tool</a>
 
 falling progesterone levels leads to shedding of the decidua functionalis layer causing uterine bleeding 
 increased pgf2 alpha causes constriction of blood vessels also leading to shedding 
@@ -32,8 +32,8 @@ chronic aub etiologies are classified by FIGO as PALM COEIN
 > if above positive do labs - vW-ristocetin cofactor activity, vW factor antigen, factor viii
 
 ## HISTORY TAKING
-![History taking](./aub_history_taking.jpg)
-![History taking](./aub_history_taking1.png)
+![History taking](./aub/aub_history_taking.jpg)
+![History taking](./aub/aub_history_taking1.png)
 
 ## INVESTIGATIONS:
 
@@ -59,7 +59,7 @@ iv tranexamic acid 10mg/kg q8h
 - recombinant factor viii and recombinant vW facctor - coagulation defects and vW disease
 - factor specific replacement
 
-![acute aub](./aub_acute_treatment.png) 
+![acute aub](./aub/aub_acute_treatment.png) 
 
 ### Failed Medical Management - 
 - intrauterine tamponade with 26F foley with 30mL of saline solution
@@ -80,6 +80,6 @@ iv tranexamic acid 10mg/kg q8h
 > NOTE: AUB-I includes - oestrogen/progesterone therapy, GnRH agonists, aromatase inhibitors, SERM, SPRM
 
 **CHRONIC AUB**
-![Specific Treatment Overview](./aub_treatment_specific.png)
+![Specific Treatment Overview](./aub/aub_treatment_specific.png)
 
 

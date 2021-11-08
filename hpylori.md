@@ -40,7 +40,7 @@
 - endoscopy - test for inflammation and ulcers, biopsy can be taken for culture
 - stool sample - antibody test - can be used to test eradication
 
-![investigation](./hpylori_investigations.png)
+![investigation](./hpylori/hpylori_investigations.png)
 
 ## TREATMENT
 
@@ -48,11 +48,11 @@
 - capable of developing resistance so 2/more antibiotics used together with ppi and/or bismuth containing compounds.
 - pts who have already taken metro and clarythro/erythro have resistance for these antibiotics
 
-![rx drugs](./rx_hpylori.png)
+![rx drugs](./hpylori/rx_hpylori.png)
 
-![rx algorith](./rx_algorithm.jpg)
+![rx algorith](./hpylori/rx_algorithm.jpg)
 
-![rx failure plan](./rx_failure_plan.jpg)
+![rx failure plan](./hpylori/rx_failure_plan.jpg)
 
 - confirm eradication with ubt/stool antigen test 4 weeks after completion of therapy
 

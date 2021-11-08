@@ -71,7 +71,7 @@ Initiation dose (recommended by American diabetes association) **10 units/day or
 - whose blood glucose is >300mg/dl 
 - who are symptomatic of hyperglycemia
 
-![regimen protocol](./insulin_protocol.jpg)
+![regimen protocol](./insulin/insulin_protocol.jpg)
 
 ### REGIMEN 1 - BASAL BOLUS REGIMEN
 rapid acting before meal with greatest carbohydrate content, if target not met - progress to two or more rapid acting acting insulin injections
@@ -82,7 +82,7 @@ premixed insulin at 75/25, 70/30 or 50/50 mix bd or tds...basal insulin and glp 
 
 ## REGIMEN AACE
 
-![regimen protocol2](./insulin_protocol2.jpg)
+![regimen protocol2](./insulin/insulin_protocol2.jpg)
 
 > NOTE: best policy to start insulin - fix fasting first
 

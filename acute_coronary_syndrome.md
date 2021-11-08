@@ -11,16 +11,16 @@ padding: 10px;
 - maximum time of viability - 6hours 
 
 ## ANATOMY
-![vessels anterior](.\acs_vessels_ant.png)
-![vessels posterior](.\acs_vessels_post.png)
-![vessels posterior1](.\acs_vessels_post1.png)
+![vessels anterior](./acute_coronary_syndrome/acs_vessels_ant.png)
+![vessels posterior](./acute_coronary_syndrome/acs_vessels_post.png)
+![vessels posterior1](./acute_coronary_syndrome/acs_vessels_post1.png)
 
 ### LAD 
 - **proximal LAD**
 	- v1 - v4 (anteroseptal, I, avl(high lateral - due to first diagonal branch block)
 	- if lad is long ie wraps around the apex - II, III, aVF
 	- complete RBBB may occur
-- ** distal to first diagonal and first septal branch**
+- **distal to first diagonal and first septal branch**
 	- v2-v4  
 
 ### LCx
@@ -40,13 +40,13 @@ padding: 10px;
 ## ECG:
 
 - changes seen in ecg before microscope and cardiac troponins 
-- ecg + cardiac markers within 10 mins - **door to paper time - 10 mins**  * (my nomenclature) 
+- ecg + cardiac markers within 10 mins - **door to paper time - 10 mins** (my nomenclature) 
 - st elevation from cornary vasospasm - no cellular necrosis (reversed with ntg)
 - st elevation - complete occlusion
 - st depression or t wave inversion - incomplete occlusion
 	- cellular necrosis(inc enzymes) - NSTEMI
 	- no cellular necrosis - unstable angina    
-![location of mi](.\acs_location.png)
+![location of mi](./acute_coronary_syndrome/acs_location.png)
 
 ### Complete Occlusion
 

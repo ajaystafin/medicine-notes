@@ -32,8 +32,8 @@ recurrent episodes of wheezing, breathlessness, chest tightness, coughing - of v
 
 ### Diagnostic Criteria!
 
-![criteria1](./Pictures/asthma1.png)
-![criteria2](./Pictures/asthma2.png)
+![criteria1](./asthma/asthma1.png)
+![criteria2](./asthma/asthma2.png)
 
 - Spirometry objective method of diagnosis in >6yrs
 - PEF next alternative - only used in adults  
@@ -44,7 +44,7 @@ recurrent episodes of wheezing, breathlessness, chest tightness, coughing - of v
 
 - avoid iecs or laba 24hrs before all above tests  
 
-![PRAM](./Pictures/asthma4.png)
+![PRAM](./asthma/asthma4.png)
 
 
 The most useful method of diagnosis in children with asthma is a trial of rx (8-12 weeks of daily ICS and short acting bronchodilator as rescue medication) coz most children develop wheeze only during viral infection and remain asymptommatic inbetween -- If the trial reduced symptoms a diagnosis of asthma is likely.
@@ -52,7 +52,7 @@ The most useful method of diagnosis in children with asthma is a trial of rx (8-
 Another method of diagnosis when child comes with symptoms is giving rescue bronchodilator and assessing improvement 10-15 mins later -- improvement suggests asthma likely
 
 Use **modified Asthma Predictive Tool (mAPI)** for diagnosis of children < 3yrs with recurrent wheeze -- positive mAPI in preschool shows asthma may continue in future  
-![mAPI](./Pictures/asthma3.png)
+![mAPI](./asthma/asthma3.png)
 
 **NON INVASIVE AIRWAY TESTS**
 * sputum esoinophils 
@@ -71,8 +71,8 @@ Use **modified Asthma Predictive Tool (mAPI)** for diagnosis of children < 3yrs 
 * nose - allergic rhinitis, nasal polyps(also seen in cystic fibrosis)
 * PRAM(Pediatric Respiratory Assessment Measure) - used to assess acute asthma severity - use in children 0-17 years in ED 
 
-![PRAM](./Pictures/asthma4.png)
-![PRAM](./Pictures/asthma5.png)
+![PRAM](./asthma/asthma4.png)
+![PRAM](./asthma/asthma5.png)
 
 ### Differential Diagnosis
 

@@ -24,12 +24,12 @@ THREE TYPES
 	- pid following abortion
 	- iud insertion
 
-![sites of rti](./sites_of_rti.png)
+![sites of rti](./reproductive_tract_infections/sites_of_rti.png)
 
-![rti syndromes](./rti_syndromes.png)
+![rti syndromes](./reproductive_tract_infections/rti_syndromes.png)
 
 ## COMPLICATIONS
-![complications](./rti_complications.png)
+![complications](./reproductive_tract_infections/rti_complications.png)
 
 
 complications in pregnancy
@@ -70,4 +70,4 @@ in pregnant women with a history of spontaneous abortion or preterm delivery bv 
 - bv treatment 
 	- metro 500mg tds for 7 days
 
-![bv treatment](./bv_rx.png)
+![bv treatment](./reproductive_tract_infections/bv_rx.png)

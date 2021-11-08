@@ -13,7 +13,7 @@ inc in triglyceride rich lipoproteins caused by
 - decreased catabolism (mainly by reduced lipoprotein lipase activity)
 
 ## NORMAL LEVELS
-[normal levels](./cholesterol_guideliens.pdf)
+[normal levels](./triglycerides/cholesterol_guideliens.pdf)
 ## TYPES 
 
 1. primary

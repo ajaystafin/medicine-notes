@@ -1,7 +1,7 @@
 # ANTICOAGULANTS
 [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334060/#:~:text=Oral%20or%20intravenous%20vitamin%20K,it%20preferable%20in%20bleeding%20patients.&text=For%20non%2Dmajor%20bleeding%2C%20anticoagulation,3%20mg%20intravenous%20vitamin%20K.)
 
-![af anticoagulation](./anticoagulation_in_af.png)
+![af anticoagulation](./anticoagulants/anticoagulation_in_af.png)
 recommended inr for pts with af - 2-3
 
 > NOTE: major risk of bleed starts at INR >3.5
@@ -9,7 +9,7 @@ recommended inr for pts with af - 2-3
 
 > NOTE: antiplatelets should be discontinued when an anticoagulant is used
 
-![reversal](./anticoagulants_reversal.png)
+![reversal](./anticoagulants/anticoagulants_reversal.png)
 
 if inr 5-8 reversal is achieved by withholding one or two doses of warfarin followed by dose reduction (in some cases oral vit k can be used). if inr > 8 vit k 1-5 mg
 

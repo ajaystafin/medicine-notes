@@ -11,7 +11,7 @@ modified: '2020-05-06T09:46:31.959Z'
 [malaria and ctx](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579948/)
 
 ## Mechanism of Action
-![MOA](./tmpsmx.jpg)
+![MOA](./cotrimoxazole/tmpsmx.jpg)
 * smx - inhibit dihydrpteroate synthase
 * tmp - inhibits dihydrofolate reductase - synergistic effect 
 * effective ratio tmp:smx - 20:1 for oral and 5:1 for iv

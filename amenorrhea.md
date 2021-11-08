@@ -9,6 +9,8 @@ modified: '2020-09-30T13:54:13.888Z'
 
 Not menstruating for gt 3 months 
 
+![menstual cycle](./amenorrhea/menstrual_cycle.png)
+![menstual cycle](./amenorrhea/menstrual_cycle.svg)
 ## CAUSES
 
 1. anatomical incl. pregnancy
@@ -23,7 +25,7 @@ Not menstruating for gt 3 months
 4. Testosterone - virilizing tumours, adult onset cah
 5. LH - inc with normal test - PCOS, dec LH with normal test - HCA (hypothalamic chronic anovulation)
 
-![Flow chart](.\amenorrhea_flow_chart.png)
+![Flow chart](./amenorrhea/amenorrhea_flow_chart.png)
 
 ## TREATMENT 
 
